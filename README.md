@@ -9,9 +9,8 @@ Hacker / Investor / Developer
 ![Python3](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white) ![JS](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=plastic) ![Solidity](https://img.shields.io/badge/solidity-%2300599C.svg?style=plastic&logo=solidity&logoColor=white)
 #
 ### 📊 Stats
-| <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=paiscapital&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" alt="My GitHub Stats"/> | <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=paiscapital&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> |
-| ------------- | ------------- |
-#
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=paiscapital&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Meguminz" align="center" /></div>
+
 ### 🌏 Connect
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/paiscapital) [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@paiscapital101) [![Tiktok](https://img.shields.io/badge/tiktok-%2300599C.svg?style=plastic&logo=tiktok&logoColor=white&color=black)](https://www.tiktok.com/@paiscapital) [![X](https://img.shields.io/badge/-%231DA1F2.svg?logo=X&logoColor=white&color=black)](https://x.com/paiscapital_)
 >

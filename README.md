@@ -6,7 +6,7 @@ Hacker / Investor / Developer
 [![root-me](https://img.shields.io/badge/root-me-%2300599C.svg?style=plastic&logo=rootme&logoColor=white)](https://www.root-me.org/Meguminz) [![cryptohack](https://img.shields.io/badge/cryptohack-%2300599C.svg?style=plastic&logo=Cryptohack&logoColor=orange&color=orange)](https://cryptohack.org/user/Meguminz/) [![TryHackMe](https://img.shields.io/badge/tryhackme-%2300599C.svg?style=plastic&logo=tryhackme&logoColor=white&color=darkgreen)](https://tryhackme.com/r/p/Meguminz) [![Codeforces](https://img.shields.io/badge/codeforces-%2300599C.svg?style=plastic&logo=codeforces&logoColor=yellow)](https://codeforces.com/profile/Meguminz)
 >
 ### 👨🏻‍💻 Language
-![Python3](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Solidity](https://img.shields.io/badge/solidity-%2300599C.svg?style=plastic&logo=solidity&logoColor=white)
+![Python3](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Solidity](https://img.shields.io/badge/solidity-%2300599C.svg?style=plastic&logo=solidity&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript&logoColor=white)
 >
 ### 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=paiscapital&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>

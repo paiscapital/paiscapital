@@ -18,4 +18,4 @@ Hacker / Investor / Developer
 ### 💰 Donate?
 `Thanks, may god bless you 😇`
 
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](bitcoin:bc1qjg3r3gn4h0zcq8xvsxclnxrl3qagachugjm3m2) [![Ethereum](https://img.shields.io/badge/ethereum-7D00FF?logo=ethereum&logoColor=fff)](ethereum:0xB11BB2AE1C0FBCd4c628427671f9dec7CfdAA2a5) [![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=fff)](solana:9R8fNgEhabxaxtt7rHj2EJGx1Bi6TK5bbSeu4LBN5CzC)
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](bc1qjg3r3gn4h0zcq8xvsxclnxrl3qagachugjm3m2) [![Ethereum](https://img.shields.io/badge/ethereum-7D00FF?logo=ethereum&logoColor=fff)](0xB11BB2AE1C0FBCd4c628427671f9dec7CfdAA2a5) [![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=fff)](9R8fNgEhabxaxtt7rHj2EJGx1Bi6TK5bbSeu4LBN5CzC)
